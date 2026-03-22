@@ -44,6 +44,21 @@ Wildlife-Guardian-AI-Powered-Poaching-Detection-System
 ```
 
 ---
+# 🖥 User Interface
+
+A **Streamlit dashboard** provides an interactive interface for monitoring and detecting potential poaching activities.
+
+Users can:
+
+* Upload an image for analysis
+* Detect **humans, animals, or suspicious activity**
+* Perform **face recognition** using the known faces database
+* View detection results with **bounding boxes and labels**
+
+---
+
+![App Screenshot](Image/Dashboard.png)
+
 
 ## Installation
 
