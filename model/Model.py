@@ -1,4 +1,4 @@
-import torch
+import 
 from ultralytics import YOLO
 from facenet_pytorch import MTCNN, InceptionResnetV1
 from PIL import Image
