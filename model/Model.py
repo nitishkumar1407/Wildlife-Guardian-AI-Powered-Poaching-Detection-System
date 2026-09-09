@@ -1,7 +1,7 @@
 import torch
 from ultralytics import YOLO
 from facenet_pytorch import MTCNN, InceptionResnetV1
-from PIL import Imag1
+from PIL import Image
 import numpy as np
 import cv2
 from sklearn.metrics.pairwise import cosine_similarity
